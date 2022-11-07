@@ -1,0 +1,4 @@
+--patch-module
+com.iutbx.projetlaby=_
+--add-reads
+com.iutbx.projetlaby=ALL-UNNAMED

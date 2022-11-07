@@ -1,0 +1,1 @@
+(abs(x-Ox)==1 && Oy==y) || (abs(y-Oy)==1 && Ox==x)
